@@ -46,7 +46,8 @@
       "project_id": 5935064,
       "id": 4111918521,
       "event_type": "click",
-      "isPrimary": true
+      "isPrimary": true,
+      "kind": "event",
     },
     {
       "id": 4135394367,
