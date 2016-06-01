@@ -61,8 +61,8 @@
     "results": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -175,8 +175,8 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -298,8 +298,8 @@
     "reach": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00"
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z"
         },
         "results": {
           "totalSessions": 678754,
@@ -315,8 +315,8 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "audienceVariation": "4135810959-4126972451"
         },
         "results": {
@@ -335,8 +335,8 @@
     "timeseries": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -30703,8 +30703,8 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -39892,8 +39892,8 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -56144,8 +56144,8 @@
     "audiences": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00+00:00",
-          "end": "2016-04-05T00:00:00+00:00",
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
             "revenue": "revenue",
